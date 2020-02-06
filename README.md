@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/walterjgsp/algorithms.svg?branch=master)](https://travis-ci.org/walterjgsp/algorithms)
+[![Build Status](https://travis-ci.com/walterjgsp/algorithms.svg?branch=master)](https://travis-ci.com/walterjgsp/algorithms)
 [![CodeFactor](https://www.codefactor.io/repository/github/walterjgsp/algorithms/badge)](https://www.codefactor.io/repository/github/walterjgsp/algorithms)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/798842654ab045da9080cd4148f64456)](https://www.codacy.com/app/walterjgsp/algorithms?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=walterjgsp/algorithms&amp;utm_campaign=Badge_Grade)
 
@@ -16,6 +16,8 @@ This repo contains questions from LeetCode (most of them), HackerRank, CodeSigna
 We suggest you to try their platform so you can get new problems and articles about algorithms.
 
 The documentation for this project can be found at: <https://walterjgsp.github.io/algorithms/>
+
+The problmes list can be found at [Problems](PROBLEMS.md)
 
 ## Run C++
 
